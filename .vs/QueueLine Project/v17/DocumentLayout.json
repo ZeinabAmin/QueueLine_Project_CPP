@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62F267-1D1A-4F8E-8E7E-E9A40FB56D2E}|QueueLine Project\\QueueLine Project.vcxproj|C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\QueueLine Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB62F267-1D1A-4F8E-8E7E-E9A40FB56D2E}|QueueLine Project\\QueueLine Project.vcxproj|solutionrelative:QueueLine Project\\QueueLine Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62F267-1D1A-4F8E-8E7E-E9A40FB56D2E}|QueueLine Project\\QueueLine Project.vcxproj|C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\clsQueueLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB62F267-1D1A-4F8E-8E7E-E9A40FB56D2E}|QueueLine Project\\QueueLine Project.vcxproj|solutionrelative:QueueLine Project\\clsQueueLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62F267-1D1A-4F8E-8E7E-E9A40FB56D2E}|QueueLine Project\\QueueLine Project.vcxproj|C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB62F267-1D1A-4F8E-8E7E-E9A40FB56D2E}|QueueLine Project\\QueueLine Project.vcxproj|solutionrelative:QueueLine Project\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB62F267-1D1A-4F8E-8E7E-E9A40FB56D2E}|QueueLine Project\\QueueLine Project.vcxproj|C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB62F267-1D1A-4F8E-8E7E-E9A40FB56D2E}|QueueLine Project\\QueueLine Project.vcxproj|solutionrelative:QueueLine Project\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\clsString.h",
+              "RelativeDocumentMoniker": "QueueLine Project\\clsString.h",
+              "ToolTip": "C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\clsString.h",
+              "RelativeToolTip": "QueueLine Project\\clsString.h",
+              "ViewState": "AQIAANYBAAAAAAAAAAAcwAMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-21T17:29:55.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsQueueLine.h",
+              "DocumentMoniker": "C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\clsQueueLine.h",
+              "RelativeDocumentMoniker": "QueueLine Project\\clsQueueLine.h",
+              "ToolTip": "C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\clsQueueLine.h",
+              "RelativeToolTip": "QueueLine Project\\clsQueueLine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-21T17:28:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\clsDate.h",
+              "RelativeDocumentMoniker": "QueueLine Project\\clsDate.h",
+              "ToolTip": "C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\clsDate.h",
+              "RelativeToolTip": "QueueLine Project\\clsDate.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-21T17:27:32.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueLine Project.cpp",
+              "DocumentMoniker": "C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\QueueLine Project.cpp",
+              "RelativeDocumentMoniker": "QueueLine Project\\QueueLine Project.cpp",
+              "ToolTip": "C:\\Users\\dr\\source\\repos\\course 13\\QueueLine Project\\QueueLine Project\\QueueLine Project.cpp",
+              "RelativeToolTip": "QueueLine Project\\QueueLine Project.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T17:26:48.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
